@@ -1,0 +1,25 @@
+
+# ↑↑↑ コミット要約を 1行 50 字以内で記述してください ↑↑↑
+# 下記の Snippet を利用できます。
+# 仕様追加 / cm_add
+#:new: add: input_your_summary
+# 仕様変更 / cm_modify
+#:up: modify: input_your_summary
+# 仕様削除 / cm_delete
+#:x: delete: input_your_summary
+# バグ修正 / cm_bug
+#:bug: fix: input_your_summary
+# リファクタリング / cm_refactor
+#:recycle: refactor: input_your_summary
+# 自動生成や自動編集されたファイル / cm_tool
+#:wrench: tool: input_your_summary
+# ドキュメント / cm_doc
+#:book: doc: input_your_summary
+# バージョンアップ / cm_bumpup
+#:thumbsup: bump up: input_your_summary
+# 動かないバージョンなど、仕方なく行うコミット / cm_dirty
+#:imp: dirty: input_your_summary
+# 未分類・分類不可 / cm_other
+#:question: other: input_your_summary
+
+# ↓↓↓ コミット詳細を最後の行以降に記述してください ↓↓↓
