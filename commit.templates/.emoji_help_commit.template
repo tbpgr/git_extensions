@@ -13,6 +13,10 @@
 #:recycle: refactor: input_your_summary
 # 自動生成や自動編集されたファイル / cm_tool
 #:wrench: tool: input_your_summary
+# テストコードの追加 / cm_test
+#:ballot_box_with_check: test: input_your_summary
+# テストコードのリファクタリング / cm_test_refactor
+#:ballot_box_with_check:recycle: test_refactor: input_your_summary
 # ドキュメント / cm_doc
 #:book: doc: input_your_summary
 # バージョンアップ / cm_bumpup
